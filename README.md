@@ -1,12 +1,26 @@
 # Figma to Tailwind CSS Conversion
 
-[![Figma to Tailwind CSS Conversion](https://img.shields.io/badge/Figma_to_Tailwind_CSS-Conversion-fc3314?style=for-the-badge)](https://github.com/mr-codux/Figma-to-TailwindCSS-Conversion)
+[![Figma to Tailwind CSS Conversion](https://img.shields.io/badge/Figma_to_Tailwind_CSS-Conversion-fc3314?style=for-the-badge)](https://mr-codux.github.io/Figma-to-TailwindCSS-Conversion/template.html)
 
 A responsive UX designer portfolio landing page converted from a Figma design into semantic HTML and Tailwind CSS. The project includes a complete portfolio layout with a hero section, navigation, services, portfolio work, blog content, and responsive mobile behavior.
 
-## Preview
+## Live Demo
 
-Open `template.html` in a browser through a local server after generating the Tailwind output stylesheet.
+[Open the portfolio website](https://mr-codux.github.io/Figma-to-TailwindCSS-Conversion/template.html)
+
+The live demo is served from `template.html` through GitHub Pages.
+
+### Enable GitHub Pages
+
+If the live demo does not open yet, enable Pages for the repository:
+
+1. Open the repository **Settings** on GitHub.
+2. Select **Pages** under **Code and automation**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select the `main` branch and the `/ (root)` folder, then click **Save**.
+
+After GitHub finishes deploying, use the Live Demo link above.
+
 
 ## Built With
 
