@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 # Figma to Tailwind CSS Conversion
+
+[![Figma to Tailwind CSS Conversion](https://img.shields.io/badge/Figma_to_Tailwind_CSS-Conversion-fc3314?style=for-the-badge)](https://github.com/mr-codux/Figma-to-TailwindCSS-Conversion)
 
 A responsive UX designer portfolio landing page converted from a Figma design into semantic HTML and Tailwind CSS. The project includes a complete portfolio layout with a hero section, navigation, services, portfolio work, blog content, and responsive mobile behavior.
 
@@ -99,8 +100,3 @@ The watcher rebuilds `assets/CSS/output.css` whenever the source CSS or HTML cha
 ## License
 
 This project is available under the license included in the repository.
-=======
-# Figma-to-TailwindCS-Conversion
-I have converted an figma landing page to tailwindcss template. it's fully responsive.
-'''npm install tailwindcss @tailwindcss/cli'''
->>>>>>> b4b84cf84937decd16461673f6371c0edfa183d6
