@@ -1,6 +1,6 @@
 # Figma to Tailwind CSS 
 
-[![Figma to Tailwind CSS Conversion]<a href="https://mr-codux.github.io/Figma-to-TailwindCSS-Conversion/template.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Figma_to_Tailwind_CSS-Conversion-fc3314?style=for-the-badge" alt="Figma to Tailwind CSS Conversion">
+<a href="https://mr-codux.github.io/Figma-to-TailwindCSS-Conversion/template.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Figma_to_Tailwind_CSS-Conversion-fc3314?style=for-the-badge" alt="Figma to Tailwind CSS Conversion">
 </a>
 
 
