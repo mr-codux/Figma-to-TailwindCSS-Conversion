@@ -1,12 +1,13 @@
 # Figma to Tailwind CSS Conversion
 
-[![Figma to Tailwind CSS Conversion](https://img.shields.io/badge/Figma_to_Tailwind_CSS-Conversion-fc3314?style=for-the-badge)](https://mr-codux.github.io/Figma-to-TailwindCSS-Conversion/template.html)
+[![Figma to Tailwind CSS Conversion](https://img.shields.io/badge/Figma_to_Tailwind_CSS-Conversion-fc3314?style=for-the-badge)](<a href="https://mr-codux.github.io/Figma-to-TailwindCSS-Conversion/template.html" target="_blank" rel="noopener noreferrer"></a>)
 
 A responsive UX designer portfolio landing page converted from a Figma design into semantic HTML and Tailwind CSS. The project includes a complete portfolio layout with a hero section, navigation, services, portfolio work, blog content, and responsive mobile behavior.
 
 ## Live Demo
 
-[Open the portfolio website](https://mr-codux.github.io/Figma-to-TailwindCSS-Conversion/template.html)
+[Open the portfolio website](<a href="https://mr-codux.github.io/Figma-to-TailwindCSS-Conversion/template.html" target="_blank" rel="noopener noreferrer">Open the portfolio website</a>)
+
 
 The live demo is served from `template.html` through GitHub Pages.
 
